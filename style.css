@@ -1,3 +1,101 @@
 body{
-    background-color: aquamarine;
+    background-color: wheat  ;
+}
+h1{
+    background-color: black;
+    color: red;
+    text-align: center;
+    text-shadow: rgb(25, 7, 58);
+    height: 75px;
+    font-size: 60px;
+    border: 3px red dashed;
+    border-radius: 18px;
+}
+#x{
+    color: rgb(36, 3, 36);
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+
+}
+.m{
+    color:rgb(90, 0, 0);
+    text-shadow: red;
+font-size: 60px;
+
+}
+img{
+    height: fit-content;
+    width: fit-content;
+}
+.o{
+    font-size: 40px;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    color: black;
+    border: 4px rgb(25, 7, 58) solid;
+    border-radius:20px ;
+    margin: 40px;
+    padding:50px 60px  ;
+    width: 35%;
+    display: inline-block;
+    background-color: plum;
+    
+}
+.nos{
+    color: red;
+    font-size: 60px;
+}
+#a{
+    color: blue;
+    font: size 60px 
+}
+#b{
+    color: rgb(7, 245, 126);
+    font-size: 60px;
+}
+#c{
+    color: rgb(243, 9, 60);
+    font-size: 60px;
+}
+#d{
+    color: rgb(243, 1, 252);
+    font-size: 60px;
+}
+#f{
+    color: rgb(4, 20, 248);
+    font-size: 60px;
+}
+#e{
+    color: orange;
+    font-size: 60px;
+}
+p{
+    font-size: 38px;
+    color: purple;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-weight: 600;
+    font-style: italic;
+}
+u{
+    font-size: 60px;
+    color: rgb(4, 20, 248);
+}
+ol{
+    font-size: 50px;
+    margin: 50px;
+    color: rgb(16, 2, 17);
+}
+#g{
+    font-size: 70px;
+    color: red;
+}
+#h{
+    color: red;
+    font-size: 70px;
+}
+.z{
+    font-size: 60px;
+    margin: 15px;
 }
